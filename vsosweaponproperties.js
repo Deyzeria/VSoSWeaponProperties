@@ -22,4 +22,5 @@ Hooks.on('ready', () => {
     CONFIG.DND5E.weaponProperties['tension'] = 'Tension';
     CONFIG.DND5E.weaponProperties['trip'] = 'Trip';
     CONFIG.DND5E.weaponProperties['twinshot'] = 'Twinshot';
+    CONFIG.DND5E.weaponProperties['exotic'] = 'Exotic';
   });
