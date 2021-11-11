@@ -1,0 +1,14 @@
+{
+  "name": "vsosweaponproperties",
+  "title": "Valdas Spire of Secrets Weapon Properties",
+  "description": "Adds Valdas Spire of Secrets new weapon properties",
+  "version": "0.2",
+  "author": "Sinantrarion",
+  "systems": ["dnd5e"],
+  "styles": [],
+  "scripts": ["vsosweaponproperties.js"],
+  "manifest": "https://raw.githubusercontent.com/Sinantrarion/VSoSWeaponProperties/main/module.json",
+  "download": "https://github.com/Sinantrarion/VSoSWeaponProperties/archive/main.zip",
+  "minimumCoreVersion": "0.8.0",
+  "compatibleCoreVersion": "0.8.9"
+}
